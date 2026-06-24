@@ -62,14 +62,17 @@ Best performing: XGBoost with weights
 12                day    0.006542
 
 Accuracy: 0.9986455051382468
+
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00     67596
            1       0.81      0.94      0.87       326
 
     accuracy                           1.00     67922
-   macro avg       0.91      0.97      0.93     67922
-weighted avg       1.00      1.00      1.00     67922
+    macro avg       0.91      0.97      0.93     67922
+    weighted avg       1.00      1.00      1.00     67922
+
+
 
 <img width="666" height="547" alt="image" src="https://github.com/user-attachments/assets/d2cffe40-b619-44c1-8eed-973d07237494" />
 
