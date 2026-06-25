@@ -12,7 +12,6 @@ A machine learning project that predicts whether a credit card transaction is fr
   - Logistic Regression
   - Linear SVC
   - Random Forest
-  - KNN
   - XGBoost
   - LightGBM
 - Hyperparameter tuning
